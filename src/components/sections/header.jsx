@@ -50,7 +50,7 @@ const Header = () => {
                                 <div className="navbar-header">
                                     <div className="mobile-logo">
                                         <Link href="/">
-                                            <Image width={75} height={25} sizes='100vw' src={"/images/logo.png"} alt="Logo" title="Logo" />
+                                            <Image width={75} height={25} sizes='100vw' src={"/images/logo.webp"} alt="Logo" title="Logo" />
                                         </Link>
                                     </div>
                                     {/* <!-- Toggle Button --> */}
