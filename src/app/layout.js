@@ -6,7 +6,7 @@ import CallToAction from "@/components/sections/callToAction";
 import Footer from "@/components/sections/footer";
 
 export const metadata = {
-  title: "atorz - WE ARE CREatorz",
+  title: "Atorz",
   description: "atorz - WE ARE CREatorz",
 };
 

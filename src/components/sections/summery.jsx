@@ -1,41 +1,57 @@
-import React from 'react'
-import { RiMailSendLine } from '@remixicon/react'
-import SlideUp from '@/utlits/animations/slideUp'
+import React from "react";
+import { RiStackLine } from "@remixicon/react";
+import SlideUp from "@/utlits/animations/slideUp";
 
 const Summery = () => {
-    return (
-        <section id="about" className="about-single-area innerpage-single-area">
-            <div className="container">
-                <div className="row">
-                    {/* <!-- START ABOUT IMAGE DESIGN AREA --> */}
-                    <div className="col-lg-4">
-                        <SlideUp>
-                            <div className="about-image-part">
-                                <img src={"/images/about/profile.png"} alt="About Me" />
-                            </div>
-                        </SlideUp>
-                    </div>
-                    {/* <!-- / END ABOUT IMAGE DESIGN AREA -->
+  return (
+    <section id="about" className="about-single-area innerpage-single-area">
+      <div className="container">
+        <div className="row">
+          {/* <!-- START ABOUT IMAGE DESIGN AREA --> */}
+          <div className="col-lg-4">
+            <SlideUp>
+              <div className="about-image-part">
+                <img src={"/images/about/profile.webp"} alt="About Me" />
+              </div>
+            </SlideUp>
+          </div>
+          {/* <!-- / END ABOUT IMAGE DESIGN AREA -->
                     <!-- START ABOUT TEXT DESIGN AREA --> */}
-                    <div className="col-lg-8">
-                        <SlideUp>
-                            <div className="about-content-part">
-                                <h2>
-                                    I’m Bentos Walker, a product designer.
-                                </h2>
-                                <p>I am a San francisco-based product designer with a focus on web design, illustration, a visual development. I have a diverse range of experience having worked across various fields and industries.</p>
-                                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.</p>
-                                <div className="hero-btns">
-                                    <a href="contact.html" className="theme-btn">Get In touch<i> <RiMailSendLine size={16} /> </i></a>
-                                </div>
-                            </div>
-                        </SlideUp>
-                    </div>
-                    {/* <!-- / END ABOUT TEXT DESIGN AREA --> */}
+          <div className="col-lg-8">
+            <SlideUp>
+              <div className="about-content-part">
+                <h2>Designing Every Touchpoint of Human Experience.</h2>
+                <p>
+                  Atorz is a global design collective specializing in the
+                  intersection of digital technology, spatial aesthetics, and
+                  human experience. We deliver integrated solutions that ensure
+                  every brand communicates with clarity, purpose, and aesthetic
+                  excellence.
+                </p>
+                <p>
+                  Through specialized collaborative cells, we seamlessly bridge
+                  the gap between Digital Media, Product Identity, and
+                  Architectural Space. Our mission is constant: to transform
+                  technical complexity into intuitive, enduring elegance—from a
+                  single pixel to a physical structure.
+                </p>
+                <div className="hero-btns">
+                  <a href="/services" className="theme-btn">
+                    Explore Our Services
+                    <i>
+                      {" "}
+                      <RiStackLine size={16} />{" "}
+                    </i>
+                  </a>
                 </div>
-            </div>
-        </section>
-    )
-}
+              </div>
+            </SlideUp>
+          </div>
+          {/* <!-- / END ABOUT TEXT DESIGN AREA --> */}
+        </div>
+      </div>
+    </section>
+  );
+};
 
-export default Summery
+export default Summery;

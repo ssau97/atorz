@@ -7,7 +7,7 @@ import {
   RiLinkedinFill,
   RiGithubLine,
   RiCircleFill,
-  RiDownloadLine,
+  RiArrowRightUpLine,
 } from "@remixicon/react";
 import PartnersMarquee from "./partnersMarquee";
 import SlideUp from "@/utlits/animations/slideUp";
@@ -21,7 +21,7 @@ const Hero = () => {
           <div className="col-lg-4">
             <SlideUp>
               <div className="about-image-part">
-                <img src={"/images/about/profile.png"} alt="About Me" />
+                <img src={"/images/about/profile.webp"} alt="About Me" />
                 <h2>atorz studio</h2>
                 <p>WE ARE CRE_atorz</p>
                 <div className="about-social text-center">
@@ -56,26 +56,33 @@ const Hero = () => {
           <div className="col-lg-8">
             <SlideUp>
               <div className="about-content-part">
-                <p>Hello There!</p>
+                <p>
+                  Hello, We are cre<b>atorz</b>!
+                </p>
                 <h2>
-                  I’m Bentos Walker, a product designer crafting user-centric
-                  design with pixel-perfect precision.
+                  A Multidisciplinary Design Studio Crafting Future-Ready
+                  Experiences.
                 </h2>
+                <p>
+                  "From pixels to spaces, we dissolve the boundaries of design.
+                  Atorz combines human-centered strategy with aesthetic
+                  excellence to solve complex challenges."
+                </p>
                 <div className="adress-field">
                   <ul>
                     <li className="d-flex align-items-center">
                       <i>
                         <RiCircleFill size={14} />
                       </i>{" "}
-                      Available for Freelancing
+                      Collaborating with Global Partners
                     </li>
                   </ul>
                 </div>
                 <div className="hero-btns">
-                  <Link href="/contact" className="theme-btn">
-                    Download CV{" "}
+                  <Link href="/about" className="theme-btn">
+                    Explore Our Disciplines{" "}
                     <i>
-                      <RiDownloadLine size={16} />
+                      <RiArrowRightUpLine size={16} />
                     </i>{" "}
                   </Link>
                 </div>

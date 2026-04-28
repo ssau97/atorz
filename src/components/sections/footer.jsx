@@ -11,9 +11,7 @@ const Footer = () => {
             {/* 좌측: 카피라이트 */}
             <div className="col-lg-6">
               <div className="copyright-text">
-                <p>
-                  Copyright ©️ 2016-{year} | atorz.com™️ | All Rights Reserved.
-                </p>
+                <p>2016-{year} ⓒ atorz.com™</p>
               </div>
             </div>
             {/* 우측: 소셜 미디어 아이콘 */}
