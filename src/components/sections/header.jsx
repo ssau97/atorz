@@ -63,7 +63,10 @@ const Header = () => {
                                 <div className="navbar-collapse collapse">
                                     <ul className="navigation onepage clearfix">
                                         {
-                                            menuList.map(({ id, label, path }) => <li key={id}><Link href={path} className="nav-link-click" >{label}</Link></li>)
+                                            menuList
+                                            // path가 '/contact'인 항목을 제외하고 출력
+                                            .filter(({ path }) => path !== '/contact')
+                                            .map(({ id, label, path }) => <li key={id}><Link href={path} className="nav-link-click" >{label}</Link></li>)
                                         }
                                     </ul>
                                 </div>
