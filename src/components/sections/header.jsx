@@ -38,7 +38,7 @@ const Header = () => {
                         <div className="logo-outer">
                             <div className="logo">
                                 <Link href="/">
-                                    <Image width={120} height={40} sizes='100vw' src={"/images/logo.png"} alt="Logo" title="Logo" />
+                                    <Image width={120} height={40} sizes='100vw' src={"/images/logo.webp"} alt="Logo" title="Logo" />
                                 </Link>
                             </div>
                         </div>
@@ -71,7 +71,7 @@ const Header = () => {
 
                         </div>
                         <div className="menu-btns">
-                            <Link href="/contact" className="theme-btn">Hire Me <RiShakeHandsLine size={15} /> </Link>
+                            <Link href="/contact" className="theme-btn">Contact <RiShakeHandsLine size={15} /> </Link>
                         </div>
                     </div>
                 </div>
