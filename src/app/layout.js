@@ -1,13 +1,13 @@
 import Preloader from "@/components/ui/preloader";
-import "./global.css"
+import "./global.css";
 import BootstrapForBrowser from "@/components/ui/bootstrapForBrowser";
 import Header from "@/components/sections/header";
 import CallToAction from "@/components/sections/callToAction";
 import Footer from "@/components/sections/footer";
 
 export const metadata = {
-  title: "Bentos - Personal Portfolio Next.js Template",
-  description: "Bentos - Personal Portfolio React Template",
+  title: "atorz - WE ARE CREatorz",
+  description: "atorz - WE ARE CREatorz",
 };
 
 export default function RootLayout({ children }) {
