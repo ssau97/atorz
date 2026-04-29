@@ -7,26 +7,25 @@ const Footer = () => {
     <footer className="main-footer">
       <div className="footer-bottom pt-50 pb-40">
         <div className="container">
-          <div className="row">
-            {/* 좌측: 카피라이트 */}
-            <div className="col-lg-6">
+          <div className="row align-items-center">
+            {/* 좌측: 카피라이트 (모바일 중앙, PC 왼쪽 정렬) */}
+            <div className="col-lg-6 text-center text-lg-start">
               <div className="copyright-text">
                 <p>2016-{year} ⓒ atorz.com™</p>
               </div>
             </div>
-            {/* 우측: 소셜 미디어 아이콘 */}
+            {/* 우측: 소셜 미디어 및 서비스 아이콘 (모바일 중앙, PC 오른쪽 정렬) */}
             <div className="col-lg-6">
               <div className="copyright-text extra-copyright">
                 <div
-                  className="social-links"
+                  className="social-links justify-content-center justify-content-lg-end"
                   style={{
                     display: "flex",
                     gap: "20px",
-                    justifyContent: "flex-end",
                     alignItems: "center",
                   }}
                 >
-                  {/* 안드로이드 앱 목록 */}
+                  {/* 1. 안드로이드 앱 목록 */}
                   <a
                     href="https://play.google.com/store/apps/dev?id=5233406322989418544"
                     target="_blank"
@@ -43,7 +42,7 @@ const Footer = () => {
                     </svg>
                   </a>
 
-                  {/* 애플 앱 목록 */}
+                  {/* 2. 애플 앱 목록 */}
                   <a
                     href="https://apps.apple.com/developer/cha-woo-lee/id1772191027"
                     target="_blank"
@@ -60,7 +59,7 @@ const Footer = () => {
                     </svg>
                   </a>
 
-                  {/* 유튜브 채널 */}
+                  {/* 3. 유튜브 채널 */}
                   <a
                     href="https://www.youtube.com/@atorz"
                     target="_blank"
@@ -74,6 +73,25 @@ const Footer = () => {
                       fill="currentColor"
                     >
                       <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                    </svg>
+                  </a>
+
+                  {/* 4. 쇼티클 (마지막 배치) */}
+                  <a
+                    href="https://shorticle.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title="Shorticle"
+                    style={{ display: "inline-flex", alignItems: "center" }}
+                  >
+                    <svg
+                      viewBox="0 0 75.34 123.52"
+                      width="12.2"
+                      height="20"
+                      fill="currentColor"
+                    >
+                      <polygon points="0 93.27 0 108.39 37.67 123.52 75.34 108.39 75.34 93.27 37.67 108.39 0 93.27" />
+                      <path d="M75.27,67.99c-.26-2.88-.88-5.53-1.77-7.84-1.3-3.08-3.32-5.81-6.05-8.3-2.85-2.37-6.52-4.51-11.03-6.52-4.63-1.9-10.2-3.68-16.73-5.46-3.8-.95-6.76-1.9-9.13-2.85s-4.27-1.9-5.69-3.08c-1.42-.95-2.49-2.14-2.97-3.56-.59-1.19-.83-2.73-.83-4.51,0-1.9.47-3.56,1.54-4.98.95-1.3,2.37-2.37,4.03-3.2,1.54-.71,3.32-1.3,5.46-1.66,1.9-.24,3.92-.36,5.93-.36,4.75.24,9.61,1.19,14.47,2.97,4.75,1.9,9.13,4.15,12.93,6.88l7-14.12c-5.69-3.56-11.39-6.29-17.08-8.42-5.69-1.9-11.74-2.97-18.03-2.97-4.75,0-9.14.59-13.29,1.54-4.27,1.19-7.95,2.85-11.15,4.98-3.32,2.25-5.81,4.98-7.71,8.19-1.9,3.32-2.85,7.24-2.85,11.74,0,4.27.71,7.95,2.37,11.03,1.54,3.2,3.91,5.93,7,8.3s6.88,4.51,11.51,6.17c4.51,1.78,9.73,3.32,15.66,4.51,5.81,1.42,10.2,3.08,13.29,5.22,2.97,2.25,4.51,5.46,4.51,9.73,0,1.66-.31,3.12-.89,4.4l-16.54,6.64-1.55.62-1.78-.72L0,67.96v15.13l.79.32,36.54,14.67.34.13.3-.12,33.16-13.31,4.21-1.69v-13.98l-.07-1.12Z" />
                     </svg>
                   </a>
                 </div>
