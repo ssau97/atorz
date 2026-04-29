@@ -1,11 +1,5 @@
 import React from "react";
-import {
-  RiMedalLine,
-  RiFocus3Line,
-  RiHistoryLine,
-  RiGlobalLine,
-  RiShoppingCartLine,
-} from "@remixicon/react";
+import Image from "next/image";
 import SlideUp from "@/utlits/animations/slideUp";
 
 const Resume = () => {
@@ -20,13 +14,13 @@ const Resume = () => {
                 <h2>Creative Lineage</h2>
                 <div className="experience-list">
                   <Card
-                    icon={<RiHistoryLine />}
+                    imgSrc={"/images/resume/est.webp"}
                     year={"2016 - Present"}
                     title={"Atorz Establishment"}
                     institution={"Multidisciplinary Creative Studio"}
                   />
                   <Card
-                    icon={<RiMedalLine />}
+                    imgSrc={"/images/resume/award-sbs.webp"}
                     year={"2009"}
                     title={"Creative Excellence (SBS)"}
                     institution={
@@ -34,7 +28,7 @@ const Resume = () => {
                     }
                   />
                   <Card
-                    icon={<RiMedalLine />}
+                    imgSrc={"/images/resume/award-kobaco.webp"}
                     year={"1986"}
                     title={"Master of Sound & Media"}
                     institution={
@@ -51,7 +45,7 @@ const Resume = () => {
                 <h2>Strategic Ventures</h2>
                 <div className="experience-list">
                   <Card
-                    icon={<RiGlobalLine />}
+                    imgSrc={"/images/resume/shorticle.webp"}
                     year={"Platform"}
                     title={"Shorticle Innovation"}
                     institution={
@@ -68,7 +62,7 @@ const Resume = () => {
                     }
                   />
                   <Card
-                    icon={<RiShoppingCartLine />}
+                    imgSrc={"/images/resume/golmok.webp"}
                     year={"Platform"}
                     title={"E-commerce Solution"}
                     institution={
@@ -85,7 +79,7 @@ const Resume = () => {
                     }
                   />
                   <Card
-                    icon={<RiFocus3Line />}
+                    imgSrc={"/images/resume/sofa.webp"}
                     year={"Design"}
                     title={"Space & Identity"}
                     institution={"Premium Studio & Brand Architecture"}
@@ -93,7 +87,6 @@ const Resume = () => {
                 </div>
               </div>
             </div>
-            {/* 우측 끝 */}
           </div>
         </div>
       </div>
@@ -103,11 +96,33 @@ const Resume = () => {
 
 export default Resume;
 
-const Card = ({ year, title, institution, icon }) => {
+const Card = ({ year, title, institution, imgSrc }) => {
   return (
     <SlideUp>
       <div className="resume-item">
-        <div className="icon">{icon}</div>
+        <div
+          className="icon"
+          style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            background: "none",
+            backgroundColor: "transparent",
+            border: "none",
+            boxShadow: "none",
+            width: "52px",
+            height: "52px",
+          }}
+        >
+          {/* 기존 아이콘 대신 WebP 이미지 배치 */}
+          <Image
+            src={imgSrc}
+            alt={title}
+            width={52}
+            height={52}
+            style={{ objectFit: "contain" }}
+          />
+        </div>
         <div className="content">
           <span className="years">{year}</span>
           <h4>{title}</h4>
