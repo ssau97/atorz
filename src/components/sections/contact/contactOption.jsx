@@ -11,38 +11,24 @@ const ContactOption = () => {
             <div className="single-contact">
               <div className="contact-icon">
                 <i>
-                  {" "}
                   <RiMapPinLine size={20} />
                 </i>
               </div>
-              <h2>headquater:</h2>
+              <h2>Headquarters:</h2>
               <p>Jung-gu, Incheon, South Korea</p>
-              <h2>Branch_BUSAN:</h2>
+              <h2 style={{ marginTop: "10px" }}>Creative Studio:</h2>
               <p>Suyeong-gu, Busan, South Korea</p>
             </div>
           </SlideUp>
-          <SlideUp delay={3}>
-            <div className="single-contact wow fadeInUp" data-wow-delay=".4s">
-              <div className="contact-icon">
-                <i>
-                  {" "}
-                  <RiPhoneLine size={20} />
-                </i>
-              </div>
-              <h2>contact number:</h2>
-              <p>+1234321321</p>
-            </div>
-          </SlideUp>
           <SlideUp delay={4}>
-            <div className="single-contact wow fadeInUp" data-wow-delay=".6s">
+            <div className="single-contact">
               <div className="contact-icon">
                 <i>
-                  {" "}
                   <RiMailLine size={20} />
                 </i>
               </div>
-              <h2>Email us:</h2>
-              <p>websitename@mail.com</p>
+              <h2>Official Email:</h2>
+              <p>info@atorz.com</p>
             </div>
           </SlideUp>
         </div>
