@@ -1,58 +1,25 @@
 "use client";
 import React from "react";
 import Link from "next/link";
-import {
-  RiFacebookCircleFill,
-  RiTwitterXLine,
-  RiLinkedinFill,
-  RiGithubLine,
-  RiCircleFill,
-  RiArrowRightUpLine,
-} from "@remixicon/react";
+import { RiCircleFill, RiArrowRightUpLine } from "@remixicon/react";
 import PartnersMarquee from "./partnersMarquee";
 import SlideUp from "@/utlits/animations/slideUp";
+import IntroSlider from "./IntroSlider"; // 새로 만든 컴포넌트 임포트
 
 const Hero = () => {
   return (
     <section id="about" className="about-area">
       <div className="container">
         <div className="row">
-          {/* <!-- START ABOUT IMAGE DESIGN AREA --> */}
+          {/* <!-- START ABOUT IMAGE DESIGN AREA (슬라이더로 대체됨) --> */}
           <div className="col-lg-4">
             <SlideUp>
-              <div className="about-image-part">
-                <img src={"/images/about/profile.webp"} alt="About Me" />
-                <h2>atorz studio</h2>
-                <p>WE ARE CRE_atorz</p>
-                <div className="about-social text-center">
-                  <ul>
-                    <li>
-                      <Link href="">
-                        <RiFacebookCircleFill size={20} />
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="">
-                        <RiTwitterXLine size={20} />
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="">
-                        <RiLinkedinFill size={20} />
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="">
-                        <RiGithubLine size={20} />
-                      </Link>
-                    </li>
-                  </ul>
-                </div>
-              </div>
+              <IntroSlider />
             </SlideUp>
           </div>
-          {/* <!-- / END ABOUT IMAGE DESIGN AREA -->
-                    <!-- START ABOUT TEXT DESIGN AREA --> */}
+          {/* <!-- / END ABOUT IMAGE DESIGN AREA --> */}
+
+          {/* <!-- START ABOUT TEXT DESIGN AREA (우측 설명 영역) --> */}
           <div className="col-lg-8">
             <SlideUp>
               <div className="about-content-part">
