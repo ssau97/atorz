@@ -8,6 +8,7 @@ export default function SolitaireSupport() {
     <main style={{ maxWidth: 800, margin: '0 auto', padding: '160px 24px 80px', lineHeight: 1.8, overflowWrap: 'anywhere' }}>
       <h1>Kkorean Solitaire</h1>
       <p>ATORZ Studio · 에이터즈(Atorz)</p>
+      <p><a href="/privacy/kkorean-solitaire">개인정보처리방침 · Privacy Policy</a></p>
       <section lang="ko" aria-labelledby="support-ko">
         <h2 id="support-ko">지원 안내</h2>
         <p>화투·십이지 카드로 즐기는 솔리테어 게임입니다. 일반 게임과 일일 도전, 힌트·실행 취소, 로컬 기록을 제공합니다.</p>
