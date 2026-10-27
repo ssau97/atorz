@@ -1,0 +1,756 @@
+{
+  "ko": {
+    "title": "개인정보처리방침",
+    "intro": "시행일: 2026년 10월 21일. 이 방침은 에이터즈(Atorz), 브랜드명 ATORZ Studio가 제공하는 Kkorean Solitaire 앱 및 앱 지원 문의에 적용됩니다.",
+    "sections": [
+      {
+        "heading": "1. 운영자와 연락처",
+        "paragraphs": [
+          "개인정보 처리 및 권리 행사 문의: <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. <a href=\"/support/kkorean-solitaire\">앱 지원 안내</a>에서도 연락하실 수 있습니다."
+        ]
+      },
+      {
+        "heading": "2. 기기에 저장되는 게임 정보",
+        "paragraphs": [
+          "진행 상태, 난이도, 언어·음량 설정, 닉네임 등 로컬 프로필, 승리 기록·통계·업적, 광고 빈도 이력을 기기에 저장합니다. 현재 자체 계정 로그인·온라인 랭킹·자체 클라우드 동기화를 제공하지 않으며 이 게임 기록을 자체 게임 서버로 전송하지 않습니다. 운영체제 백업은 운영체제 설정에 따릅니다. 앱 삭제 시 기록이 손실될 수 있으며 복원을 보장하지 않습니다."
+        ]
+      },
+      {
+        "heading": "3. 광고와 동의",
+        "paragraphs": [
+          "Google AdMob(Google Mobile Ads SDK) 및 Google User Messaging Platform(UMP)을 사용합니다. 광고 제공·보안 및 부정행위 방지·성과 측정·진단 등을 위해 IP 주소와 그로부터 추정한 대략적 위치, 기기 또는 앱 관련 식별자, 광고 노출·상호작용, 앱 상호작용, 충돌·성능·기타 진단 정보가 Google에 의해 처리될 수 있습니다. 실제 처리는 기기, SDK 구성, 지역 및 사용자 선택에 따라 달라집니다.",
+          "앱은 비개인화 광고를 요청하고 publisher first-party ID를 비활성화하도록 구성합니다. 이는 모든 식별자나 정보 처리를 없앤다는 뜻이 아닙니다. 앱은 Apple 광고 추적 허용(ATT)을 요청하지 않습니다. 필요한 지역에서 UMP 동의 절차를 이용하며, SDK가 요구하는 경우 설정에서 개인정보 선택을 다시 열 수 있습니다. 광고 요청 가능 여부가 확인되지 않으면 광고 없이 게임을 계속합니다. 동의 거부가 모든 종류의 광고 차단을 뜻하지는 않습니다.",
+          "Google 처리에 관한 상세 사항은 <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">SDK 데이터 공개 안내</a>, <a href=\"https://policies.google.com/privacy?hl=ko\">Google 개인정보처리방침</a> 및 동의 화면에 표시되는 제공자 정보를 확인해 주세요. 광고를 눌러 이동한 외부 서비스에는 해당 서비스의 방침이 적용됩니다."
+        ]
+      },
+      {
+        "heading": "4. 지원 문의",
+        "paragraphs": [
+          "직접 보내신 이메일 주소, 문의 본문과 첨부파일을 답변·문제 해결 및 요청 처리 목적으로 사용합니다. 문의는 Gmail에서 관리하며 별도 CRM·클라우드 문서·외주 지원업체로 복사하거나 전달하지 않습니다. 문의는 선택 사항이며 보내지 않아도 게임을 이용할 수 있습니다. 비밀번호·세금 식별번호·결제정보 등 불필요한 민감정보는 보내지 마세요."
+        ]
+      },
+      {
+        "heading": "5. 보유와 삭제",
+        "paragraphs": [
+          "지원 문의 이메일·내용·첨부파일은 문의 해결 후 30일 이내 운영자가 관리하는 메일함과 휴지통에서 삭제합니다. 미해결 문의는 해결에 필요한 동안 보관합니다. 법령상 보존 의무가 있는 경우 그 목적과 기간에 한해 보관합니다. Google의 광고·동의 데이터 보관 및 Gmail 내부 백업 삭제는 해당 제공자의 정책과 삭제 절차에 따르며, 문의 삭제 기한과 동일하다고 보장하지 않습니다. 자세한 사항은 <a href=\"https://policies.google.com/technologies/retention?hl=ko\">Google 데이터 보관 안내</a>를 참고해 주세요."
+        ]
+      },
+      {
+        "heading": "6. 외부 제공자와 국외 처리",
+        "paragraphs": [
+          "광고·동의 기능 및 Gmail 문의 처리는 Google LLC 및 관련 Google 서비스 제공 법인의 시스템을 이용합니다. 문의 시에는 이메일 내용·첨부파일이, 광고·동의 통신 시에는 위 3항의 정보와 동의 관련 정보가 인터넷을 통해 처리됩니다. Google은 전 세계 서버를 운영하므로 미국 등 거주국 밖에서 처리될 수 있습니다. 서버 위치와 실제 처리 경로는 Google 서비스에 따라 달라지며 운영자가 특정 국가로 한정하지 않습니다.",
+          "처리 목적은 광고·동의 관리·보안·진단 및 문의 수신·보관·답변입니다. 제공자 연락처, 처리 방식, 보관 및 이전 보호조치는 <a href=\"https://policies.google.com/privacy?hl=ko\">Google 개인정보처리방침</a>과 <a href=\"https://policies.google.com/privacy/frameworks?hl=ko\">데이터 이전 안내</a>에서 확인할 수 있습니다. 문의 이메일 전송을 원하지 않으면 지원 이메일을 보내지 않을 수 있습니다. 앱 내 제공되는 동의 선택을 이용할 수 있으며, 개인정보 처리에 관한 문의는 운영자에게 보내 주세요. 이 안내 자체가 별도 동의가 필요한 처리에 대한 동의를 대신하지 않습니다."
+        ]
+      },
+      {
+        "heading": "7. 이용자의 권리와 선택",
+        "paragraphs": [
+          "관련 법령에 따른 열람·정정·삭제·처리정지·동의 철회 등의 요청을 연락처로 보내실 수 있습니다. 필요한 범위에서 본인 또는 대리 권한을 확인하며, 법률상 제한으로 처리할 수 없는 경우 사유를 안내합니다. 운영자는 기기에만 있는 게임 기록이나 Google이 독립적으로 관리하는 데이터를 직접 열람·삭제할 수 없습니다. Google 데이터에 대한 선택은 Google이 제공하는 개인정보 관리 도구도 이용해 주세요. 관할 개인정보 보호기관에 민원을 제기할 권리도 있습니다."
+        ]
+      },
+      {
+        "heading": "8. 아동·보안·변경",
+        "paragraphs": [
+          "이 앱은 어린이 전용 서비스가 아닌 일반 이용자용 게임이며, 아동의 개인정보를 별도로 제출받는 계정 기능을 제공하지 않습니다. 아동 정보가 지원 문의에 포함된 경우 연락해 주세요. 운영자는 문의 접근을 필요한 범위로 제한하고 불필요한 정보 제출을 요청하지 않습니다. 인터넷 통신이나 저장의 완전한 안전을 보장할 수는 없습니다.",
+          "방침이 변경되면 이 페이지의 시행일과 내용을 갱신하며, 필요한 경우 별도 고지 또는 동의 절차를 제공합니다."
+        ]
+      }
+    ]
+  },
+  "en": {
+    "title": "Privacy Policy",
+    "intro": "Effective October 21, 2026. This policy covers Kkorean Solitaire and app support inquiries operated by 에이터즈(Atorz), trading under the brand ATORZ Studio.",
+    "sections": [
+      {
+        "heading": "1. Operator and contact",
+        "paragraphs": [
+          "For privacy questions and rights requests: <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. See also <a href=\"/support/kkorean-solitaire\">app support</a>."
+        ]
+      },
+      {
+        "heading": "2. Local game information",
+        "paragraphs": [
+          "Progress, difficulty, language and volume preferences, local profile information such as a nickname, wins, statistics, achievements and advertising frequency history are stored on your device. We do not currently provide account sign-in, online leaderboards or our own cloud synchronization, or send these game records to our own game server. Operating-system backups depend on your settings. Deleting the app may remove records; recovery is not guaranteed."
+        ]
+      },
+      {
+        "heading": "3. Advertising and consent",
+        "paragraphs": [
+          "We use Google AdMob (Google Mobile Ads SDK) and Google User Messaging Platform (UMP). Google may process IP addresses and approximate location inferred from them, device or app-related identifiers, ad impressions and interactions, app interactions, crashes, performance and other diagnostic data for ad delivery, security and fraud prevention, measurement and diagnostics. Actual processing depends on your device, SDK configuration, region and choices.",
+          "The app is configured to request non-personalized ads and disable publisher first-party ID. This does not eliminate all identifiers or data processing. The app does not request Apple App Tracking Transparency (ATT) permission. UMP consent is offered where required, and privacy choices can be reopened in settings when required by the SDK. If ad-request permission cannot be confirmed, gameplay continues without ads. Rejecting consent does not necessarily block every kind of ad.",
+          "See <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">Google SDK data disclosures</a>, <a href=\"https://policies.google.com/privacy\">Google Privacy Policy</a> and provider information in consent messages. External services opened through ads have their own policies."
+        ]
+      },
+      {
+        "heading": "4. Support inquiries",
+        "paragraphs": [
+          "We use the email address, message and attachments you voluntarily send to answer inquiries, resolve issues and handle requests. Inquiries are managed in Gmail, without copies or forwarding to a separate CRM, cloud document service or outsourced support provider. Contacting support is optional and is not required to play. Do not send passwords, tax IDs, payment details or unnecessary sensitive information."
+        ]
+      },
+      {
+        "heading": "5. Retention and deletion",
+        "paragraphs": [
+          "Support emails, content and attachments are deleted from the operator-managed mailbox and trash within 30 days after resolution. Open inquiries are retained while needed for resolution. Where the law requires retention, we retain information only for that purpose and period. Google advertising and consent retention and Gmail internal backup deletion follow the provider’s policies and deletion processes, not a guarantee of the same support deletion deadline. See <a href=\"https://policies.google.com/technologies/retention\">Google retention information</a>."
+        ]
+      },
+      {
+        "heading": "6. Providers and international processing",
+        "paragraphs": [
+          "Advertising, consent and Gmail support use systems operated by Google LLC and relevant Google service entities. Emails and attachments are processed when you contact support; the information described in section 3 and consent-related information are processed during advertising and consent communications over the internet. Google operates servers worldwide, so information may be processed outside your country, including in the United States. Locations and processing routes depend on Google’s services and are not restricted by us to a particular country.",
+          "Purposes include advertising, consent management, security, diagnostics and receiving, retaining and answering support inquiries. Provider contacts, processing, retention and transfer safeguards are described in <a href=\"https://policies.google.com/privacy\">Google Privacy Policy</a> and <a href=\"https://policies.google.com/privacy/frameworks\">transfer information</a>. You may choose not to email support, use available in-app consent choices, or contact us about processing. This notice does not replace separate consent where required."
+        ]
+      },
+      {
+        "heading": "7. Your rights and choices",
+        "paragraphs": [
+          "You may contact us to request access, correction, deletion, restriction or withdrawal of consent as provided by applicable law. We may verify identity or authorization where necessary and explain legal restrictions on a request. We cannot directly access or delete device-only game records or data independently controlled by Google. Google provides privacy tools for its data. You may also complain to your relevant data protection authority."
+        ]
+      },
+      {
+        "heading": "8. Children, security and changes",
+        "paragraphs": [
+          "This is a general-audience game, not a service designed specifically for children. It does not offer an account feature for separately collecting children’s information. Contact us if a child’s information is included in a support message. We limit support access to what is needed and do not request unnecessary information. No internet transmission or storage can be guaranteed completely secure.",
+          "When this policy changes, we update the effective date and text here and provide additional notice or consent where required."
+        ]
+      }
+    ]
+  },
+  "es": {
+    "title": "Política de privacidad",
+    "intro": "Vigente desde el 21 de octubre de 2026. Esta política se aplica a Kkorean Solitaire y a las consultas de soporte de la aplicación, gestionados por 에이터즈(Atorz), bajo la marca ATORZ Studio.",
+    "sections": [
+      {
+        "heading": "1. Responsable y contacto",
+        "paragraphs": [
+          "Para consultas sobre privacidad y el ejercicio de sus derechos: <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. También puede consultar el <a href=\"/support/kkorean-solitaire\">soporte de la aplicación</a>."
+        ]
+      },
+      {
+        "heading": "2. Información del juego almacenada en el dispositivo",
+        "paragraphs": [
+          "El progreso, la dificultad, el idioma y el volumen, el perfil local —como el apodo—, las victorias, estadísticas, logros y el historial de frecuencia de anuncios se guardan en su dispositivo. Actualmente no ofrecemos inicio de sesión, clasificaciones en línea ni sincronización propia en la nube, ni enviamos estos registros a un servidor propio del juego. Las copias de seguridad del sistema operativo dependen de su configuración. Desinstalar la aplicación puede eliminar los registros; no garantizamos su recuperación."
+        ]
+      },
+      {
+        "heading": "3. Publicidad y consentimiento",
+        "paragraphs": [
+          "Utilizamos Google AdMob (Google Mobile Ads SDK) y Google User Messaging Platform (UMP). Google puede tratar la dirección IP y la ubicación aproximada inferida de ella, identificadores del dispositivo o de la aplicación, impresiones e interacciones publicitarias, interacciones con la aplicación, fallos, rendimiento y otros datos de diagnóstico para ofrecer anuncios, garantizar la seguridad, prevenir el fraude, realizar mediciones y diagnósticos. El tratamiento efectivo depende del dispositivo, la configuración del SDK, la región y sus elecciones.",
+          "La aplicación está configurada para solicitar anuncios no personalizados y desactivar el identificador propio del editor (publisher first-party ID). Esto no elimina todos los identificadores ni todo tratamiento de datos. No solicitamos el permiso App Tracking Transparency (ATT) de Apple. Se ofrece el procedimiento de consentimiento UMP donde es necesario; las opciones de privacidad pueden reabrirse en los ajustes cuando lo exige el SDK. Si no puede confirmarse la autorización para solicitar anuncios, el juego continúa sin ellos. Rechazar el consentimiento no bloquea necesariamente todos los tipos de anuncios.",
+          "Consulte las <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">declaraciones de datos del SDK de Google</a>, la <a href=\"https://policies.google.com/privacy?hl=es\">Política de Privacidad de Google</a> y la información de proveedores del mensaje de consentimiento. Los servicios externos abiertos desde anuncios aplican sus propias políticas."
+        ]
+      },
+      {
+        "heading": "4. Consultas de soporte",
+        "paragraphs": [
+          "Usamos el correo electrónico, el mensaje y los archivos adjuntos que envía voluntariamente para responder, resolver problemas y tramitar solicitudes. Las consultas se gestionan en Gmail; no se copian ni reenvían a un CRM independiente, documentos en la nube o proveedores externos de soporte. Contactarnos es opcional y no es necesario para jugar. No envíe contraseñas, identificadores fiscales, datos de pago ni información sensible innecesaria."
+        ]
+      },
+      {
+        "heading": "5. Conservación y eliminación",
+        "paragraphs": [
+          "Los correos de soporte, su contenido y los adjuntos se eliminan del buzón y la papelera gestionados por el responsable en los 30 días siguientes a la resolución. Las consultas abiertas se conservan mientras sea necesario para resolverlas. Si la ley exige conservar información, se guarda solo para esa finalidad y durante ese plazo. La conservación de datos publicitarios y de consentimiento de Google y la eliminación de copias internas de Gmail siguen las políticas y los procedimientos del proveedor; no garantizamos el mismo plazo de eliminación que para soporte. Consulte la <a href=\"https://policies.google.com/technologies/retention?hl=es\">información de conservación de Google</a>."
+        ]
+      },
+      {
+        "heading": "6. Proveedores y tratamiento internacional",
+        "paragraphs": [
+          "La publicidad, el consentimiento y el soporte por Gmail utilizan sistemas de Google LLC y de las entidades de Google correspondientes. Al contactar con soporte se tratan correos y adjuntos; en las comunicaciones de publicidad y consentimiento por internet se tratan los datos del apartado 3 y los relativos al consentimiento. Google tiene servidores en todo el mundo, por lo que los datos pueden tratarse fuera de su país, incluso en Estados Unidos. La ubicación y las rutas dependen de los servicios de Google; no las limitamos a un país concreto.",
+          "Las finalidades son publicidad, gestión del consentimiento, seguridad, diagnóstico y recepción, conservación y respuesta de consultas. Los contactos del proveedor, el tratamiento, la conservación y las garantías de transferencia se describen en la <a href=\"https://policies.google.com/privacy?hl=es\">Política de Privacidad de Google</a> y la <a href=\"https://policies.google.com/privacy/frameworks?hl=es\">información sobre transferencias</a>. Puede optar por no escribir a soporte, utilizar las opciones de consentimiento de la aplicación o consultarnos sobre el tratamiento. Este aviso no sustituye el consentimiento separado cuando es obligatorio."
+        ]
+      },
+      {
+        "heading": "7. Sus derechos y opciones",
+        "paragraphs": [
+          "Puede contactarnos para solicitar acceso, rectificación, eliminación, limitación del tratamiento o retirada del consentimiento según la legislación aplicable. Podemos verificar su identidad o representación cuando sea necesario e indicar los motivos de cualquier limitación legal. No podemos acceder directamente ni borrar registros que solo estén en su dispositivo ni datos que Google controle de forma independiente. Google ofrece herramientas de privacidad para sus datos. También puede reclamar ante la autoridad de protección de datos competente."
+        ]
+      },
+      {
+        "heading": "8. Menores, seguridad y cambios",
+        "paragraphs": [
+          "Es un juego para el público general, no un servicio específicamente infantil. No ofrece cuentas para recopilar por separado datos de menores. Contacte con nosotros si una consulta contiene datos de un menor. Limitamos el acceso al soporte a lo necesario y no solicitamos información innecesaria. No puede garantizarse la seguridad absoluta de las transmisiones por internet ni del almacenamiento.",
+          "Cuando cambie esta política, actualizaremos aquí su fecha de entrada en vigor y su contenido, y ofreceremos avisos adicionales o solicitaremos consentimiento cuando corresponda."
+        ]
+      }
+    ]
+  },
+  "pt-BR": {
+    "title": "Política de Privacidade",
+    "intro": "Vigente a partir de 21 de outubro de 2026. Esta política abrange o Kkorean Solitaire e as solicitações de suporte do aplicativo, operados por 에이터즈(Atorz), sob a marca ATORZ Studio.",
+    "sections": [
+      {
+        "heading": "1. Operador e contato",
+        "paragraphs": [
+          "Para dúvidas sobre privacidade e solicitações de direitos: <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. Consulte também o <a href=\"/support/kkorean-solitaire\">suporte do aplicativo</a>."
+        ]
+      },
+      {
+        "heading": "2. Informações locais do jogo",
+        "paragraphs": [
+          "Progresso, dificuldade, preferências de idioma e volume, perfil local, como apelido, vitórias, estatísticas, conquistas e histórico de frequência de anúncios ficam no dispositivo. Atualmente não oferecemos login, rankings on-line ou sincronização própria na nuvem, nem enviamos esses registros para um servidor próprio do jogo. Os backups do sistema operacional dependem das suas configurações. Desinstalar o aplicativo pode apagar registros; a recuperação não é garantida."
+        ]
+      },
+      {
+        "heading": "3. Publicidade e consentimento",
+        "paragraphs": [
+          "Usamos Google AdMob (Google Mobile Ads SDK) e Google User Messaging Platform (UMP). O Google pode tratar endereço IP e localização aproximada inferida dele, identificadores do dispositivo ou aplicativo, impressões e interações com anúncios, interações no aplicativo, falhas, desempenho e outros diagnósticos para veicular anúncios, segurança, prevenção a fraudes, medição e diagnóstico. O tratamento efetivo depende do dispositivo, da configuração do SDK, da região e das suas escolhas.",
+          "O aplicativo está configurado para solicitar anúncios não personalizados e desativar o identificador próprio do editor (publisher first-party ID). Isso não elimina todos os identificadores ou tratamentos de dados. Não solicitamos a permissão App Tracking Transparency (ATT) da Apple. O consentimento UMP é oferecido onde necessário, e as escolhas de privacidade podem ser reabertas nas configurações quando o SDK exigir. Se a permissão para solicitar anúncios não puder ser confirmada, o jogo continua sem anúncios. Recusar consentimento não bloqueia necessariamente todos os tipos de anúncio.",
+          "Consulte as <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">informações de dados do SDK do Google</a>, a <a href=\"https://policies.google.com/privacy?hl=pt-BR\">Política de Privacidade do Google</a> e os fornecedores indicados na mensagem de consentimento. Serviços externos abertos por anúncios têm políticas próprias."
+        ]
+      },
+      {
+        "heading": "4. Solicitações de suporte",
+        "paragraphs": [
+          "Usamos o e-mail, a mensagem e os anexos enviados voluntariamente para responder, solucionar problemas e atender solicitações. As consultas são gerenciadas no Gmail, sem cópias ou encaminhamento para CRM separado, documentos na nuvem ou suporte terceirizado. O contato é opcional e não é necessário para jogar. Não envie senhas, números de identificação fiscal, dados de pagamento ou informações sensíveis desnecessárias."
+        ]
+      },
+      {
+        "heading": "5. Retenção e exclusão",
+        "paragraphs": [
+          "E-mails de suporte, conteúdo e anexos são excluídos da caixa postal e da lixeira gerenciadas pelo operador em até 30 dias após a resolução. Consultas abertas são mantidas enquanto necessárias à solução. Havendo obrigação legal de retenção, conservamos dados somente para essa finalidade e por esse prazo. A retenção de dados de publicidade e consentimento do Google e a exclusão de backups internos do Gmail seguem as políticas e os processos do fornecedor; não garantimos o mesmo prazo de exclusão do suporte. Consulte as <a href=\"https://policies.google.com/technologies/retention?hl=pt-BR\">informações de retenção do Google</a>."
+        ]
+      },
+      {
+        "heading": "6. Fornecedores e tratamento internacional",
+        "paragraphs": [
+          "Publicidade, consentimento e suporte pelo Gmail usam sistemas do Google LLC e das entidades de serviços Google pertinentes. E-mails e anexos são tratados quando você contata o suporte; os dados da seção 3 e informações de consentimento são tratados nas comunicações de publicidade e consentimento pela internet. Como o Google opera servidores no mundo todo, os dados podem ser tratados fora do seu país, inclusive nos Estados Unidos. Os locais e trajetos dependem dos serviços Google e não são limitados por nós a um país específico.",
+          "As finalidades incluem publicidade, gestão do consentimento, segurança, diagnósticos e recebimento, retenção e resposta às consultas. Contatos do fornecedor, tratamento, retenção e salvaguardas de transferência constam da <a href=\"https://policies.google.com/privacy?hl=pt-BR\">Política de Privacidade do Google</a> e das <a href=\"https://policies.google.com/privacy/frameworks?hl=pt-BR\">informações sobre transferências</a>. Você pode não enviar e-mail, usar as escolhas de consentimento disponíveis no aplicativo ou nos consultar sobre o tratamento. Este aviso não substitui consentimento separado quando exigido."
+        ]
+      },
+      {
+        "heading": "7. Seus direitos e escolhas",
+        "paragraphs": [
+          "Você pode nos contatar para solicitar acesso, correção, exclusão, restrição ou revogação do consentimento conforme a legislação aplicável. Podemos verificar a identidade ou a representação quando necessário e explicar impedimentos legais. Não podemos acessar ou excluir diretamente registros apenas no dispositivo nem dados controlados de forma independente pelo Google. O Google fornece ferramentas de privacidade para seus dados. Você também pode reclamar à autoridade de proteção de dados competente."
+        ]
+      },
+      {
+        "heading": "8. Crianças, segurança e alterações",
+        "paragraphs": [
+          "Este é um jogo para o público geral, não um serviço especificamente infantil. Não oferece contas para coletar separadamente informações de crianças. Entre em contato se uma consulta incluir dados de uma criança. Limitamos o acesso ao suporte ao necessário e não solicitamos dados desnecessários. Nenhuma transmissão pela internet ou armazenamento pode ter segurança absoluta garantida.",
+          "Quando esta política mudar, atualizaremos a data e o conteúdo nesta página, com aviso adicional ou consentimento quando necessário."
+        ]
+      }
+    ]
+  },
+  "ja": {
+    "title": "プライバシーポリシー",
+    "intro": "施行日：2026年10月21日。本ポリシーは、에이터즈(Atorz)がATORZ Studioのブランド名で提供するKkorean Solitaireと、アプリのサポートへのお問い合わせに適用されます。",
+    "sections": [
+      {
+        "heading": "1. 運営者と連絡先",
+        "paragraphs": [
+          "個人情報の取り扱いと権利行使に関するお問い合わせ：<a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>。<a href=\"/support/kkorean-solitaire\">アプリのサポート案内</a>もご覧ください。"
+        ]
+      },
+      {
+        "heading": "2. 端末に保存されるゲーム情報",
+        "paragraphs": [
+          "進行状況、難易度、言語・音量設定、ニックネームなどのローカルプロフィール、勝利記録、統計、実績、広告表示頻度の履歴を端末に保存します。現在、アカウントへのログイン、オンラインランキング、独自のクラウド同期は提供しておらず、これらの記録を独自のゲームサーバーに送信しません。OSのバックアップはOSの設定に従います。アプリを削除すると記録が失われる場合があり、復元は保証されません。"
+        ]
+      },
+      {
+        "heading": "3. 広告と同意",
+        "paragraphs": [
+          "Google AdMob（Google Mobile Ads SDK）とGoogle User Messaging Platform（UMP）を使用します。Googleは広告配信、セキュリティ、不正防止、測定、診断のため、IPアドレスとそれから推定されるおおよその位置情報、端末やアプリに関する識別子、広告の表示・操作、アプリ内の操作、クラッシュ、パフォーマンスなどの診断情報を処理する場合があります。実際の処理は端末、SDK設定、地域、利用者の選択によって異なります。",
+          "アプリは非パーソナライズ広告をリクエストし、パブリッシャーのファーストパーティIDを無効にする設定です。これは、すべての識別子や情報処理をなくすものではありません。AppleのApp Tracking Transparency（ATT）の許可は求めません。必要な地域ではUMPの同意手続きを利用し、SDKが要求する場合は設定からプライバシーの選択画面を再度開けます。広告リクエストの許可が確認できない場合は広告なしでゲームを続けます。同意の拒否があらゆる広告の遮断を意味するわけではありません。",
+          "詳細は<a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">Google SDKのデータ開示情報</a>、<a href=\"https://policies.google.com/privacy?hl=ja\">Googleプライバシーポリシー</a>、同意画面の提供者情報をご確認ください。広告から開く外部サービスには、そのサービスのポリシーが適用されます。"
+        ]
+      },
+      {
+        "heading": "4. サポートへのお問い合わせ",
+        "paragraphs": [
+          "任意で送信されたメールアドレス、本文、添付ファイルを、回答、問題解決、依頼への対応に使用します。お問い合わせはGmailで管理し、別のCRM、クラウド文書、外部サポート業者へコピー・転送しません。問い合わせは任意であり、送信しなくても遊べます。パスワード、納税者番号、決済情報など不要な機微情報は送信しないでください。"
+        ]
+      },
+      {
+        "heading": "5. 保管と削除",
+        "paragraphs": [
+          "サポートのメール、本文、添付ファイルは、解決後30日以内に運営者管理のメールボックスとゴミ箱から削除します。未解決の問い合わせは解決に必要な期間保管します。法令で保管が義務付けられる場合は、その目的と期間に限り保管します。Googleの広告・同意データの保管やGmail内部のバックアップ削除は、提供者の方針と削除手続きに従い、サポートと同じ削除期限は保証されません。<a href=\"https://policies.google.com/technologies/retention?hl=ja\">Googleのデータ保持に関する説明</a>をご覧ください。"
+        ]
+      },
+      {
+        "heading": "6. 外部提供者と国外での処理",
+        "paragraphs": [
+          "広告・同意機能とGmailのサポートには、Google LLCおよび関連するGoogleサービス提供法人のシステムを使用します。問い合わせ時にはメールと添付ファイルが、広告・同意の通信時には第3項の情報と同意関連情報がインターネットを通じて処理されます。Googleは世界各地でサーバーを運営しているため、米国を含む居住国以外で処理される場合があります。場所や処理経路はGoogleのサービスにより異なり、運営者は特定の国に限定していません。",
+          "目的は広告、同意管理、セキュリティ、診断、問い合わせの受信・保管・回答です。提供者の連絡先、処理、保管、移転時の保護措置は<a href=\"https://policies.google.com/privacy?hl=ja\">Googleプライバシーポリシー</a>と<a href=\"https://policies.google.com/privacy/frameworks?hl=ja\">データ移転に関する説明</a>をご覧ください。サポートメールを送らない選択、アプリ内で利用可能な同意の選択、運営者への問い合わせができます。本案内は、別途同意が必要な処理についての同意に代わるものではありません。"
+        ]
+      },
+      {
+        "heading": "7. 利用者の権利と選択",
+        "paragraphs": [
+          "適用法に基づく閲覧、訂正、削除、処理の制限、同意撤回などは、連絡先へご依頼ください。必要な範囲で本人確認や代理権の確認を行い、法的制限で対応できない場合は理由をご案内します。運営者は端末内だけのゲーム記録やGoogleが独立して管理するデータを直接閲覧・削除できません。Googleのデータには同社のプライバシー管理ツールも利用できます。管轄の個人情報保護機関に苦情を申し立てる権利もあります。"
+        ]
+      },
+      {
+        "heading": "8. 子ども・セキュリティ・変更",
+        "paragraphs": [
+          "本アプリは一般利用者向けで、子ども専用のサービスではありません。子どもの情報を別途収集するアカウント機能はありません。問い合わせに子どもの情報が含まれる場合はご連絡ください。運営者は問い合わせへのアクセスを必要な範囲に限定し、不要な情報の提出を求めません。インターネット通信や保存の完全な安全は保証できません。",
+          "変更時はこのページの施行日と内容を更新し、必要に応じて別途通知や同意手続きを行います。"
+        ]
+      }
+    ]
+  },
+  "zh-Hans": {
+    "title": "隐私政策",
+    "intro": "生效日期：2026年10月21日。本政策适用于에이터즈(Atorz)以ATORZ Studio品牌运营的Kkorean Solitaire及应用支持咨询。",
+    "sections": [
+      {
+        "heading": "1. 运营者与联系方式",
+        "paragraphs": [
+          "隐私及权利请求请联系：<a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>。也可查看<a href=\"/support/kkorean-solitaire\">应用支持说明</a>。"
+        ]
+      },
+      {
+        "heading": "2. 设备上的游戏信息",
+        "paragraphs": [
+          "游戏进度、难度、语言和音量设置、昵称等本地资料、胜利记录、统计、成就及广告展示频率历史保存在设备上。目前不提供账号登录、在线排行榜或自有云同步，也不会将这些记录发送至自有游戏服务器。操作系统备份取决于系统设置。删除应用可能导致记录丢失，我们不保证能够恢复。"
+        ]
+      },
+      {
+        "heading": "3. 广告与同意",
+        "paragraphs": [
+          "我们使用Google AdMob（Google Mobile Ads SDK）和Google User Messaging Platform（UMP）。为投放广告、保障安全、防范欺诈、进行衡量和诊断，Google可能处理IP地址及据此推测的大致位置、设备或应用相关标识符、广告展示及互动、应用互动、崩溃、性能和其他诊断数据。实际处理取决于设备、SDK配置、地区和您的选择。",
+          "应用配置为请求非个性化广告，并停用发布商第一方ID（publisher first-party ID）。这并不意味着消除所有标识符或数据处理。应用不会请求Apple应用跟踪透明度（ATT）权限。在有要求的地区使用UMP同意流程，并在SDK要求时允许从设置重新打开隐私选项。如果无法确认是否允许请求广告，游戏将继续运行而不展示广告。拒绝同意不一定会屏蔽所有类型的广告。",
+          "请查阅<a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">Google SDK数据披露说明</a>、<a href=\"https://policies.google.com/privacy?hl=zh-CN\">Google隐私权政策</a>及同意界面中的提供商信息。通过广告打开的外部服务适用其自身政策。"
+        ]
+      },
+      {
+        "heading": "4. 支持咨询",
+        "paragraphs": [
+          "我们将您自愿发送的电子邮箱地址、邮件正文和附件用于答复、解决问题及处理请求。咨询在Gmail内管理，不复制或转发至其他CRM、云文档或外包支持商。咨询是可选的，不联系支持也可游玩。请勿发送密码、税务识别号码、付款信息或其他不必要的敏感信息。"
+        ]
+      },
+      {
+        "heading": "5. 保留与删除",
+        "paragraphs": [
+          "咨询解决后30天内，我们会从运营者管理的邮箱及垃圾箱中删除支持邮件、正文和附件。未解决的咨询仅在解决所需期间保留。法律要求保留时，仅为相应目的及期限保留。Google广告和同意数据的保留，以及Gmail内部备份的删除，遵循提供商的政策及删除流程，不保证与支持咨询采用相同删除期限。请参阅<a href=\"https://policies.google.com/technologies/retention?hl=zh-CN\">Google数据保留说明</a>。"
+        ]
+      },
+      {
+        "heading": "6. 外部提供商与境外处理",
+        "paragraphs": [
+          "广告、同意功能及Gmail支持使用Google LLC及相关Google服务实体运营的系统。联系支持时处理邮件及附件；广告和同意通信时，通过互联网处理第3节所述数据及同意相关信息。Google在全球运营服务器，数据可能在您的居住国以外处理，包括美国。服务器位置及处理路径因Google服务而异，我们不将其限定于某一国家。",
+          "处理目的包括广告、同意管理、安全、诊断以及接收、保留和回复咨询。提供商联系方式、处理方式、保留及跨境传输保护措施见<a href=\"https://policies.google.com/privacy?hl=zh-CN\">Google隐私权政策</a>和<a href=\"https://policies.google.com/privacy/frameworks?hl=zh-CN\">数据传输说明</a>。您可以选择不发送支持邮件、使用应用内可用的同意选项，或向我们咨询数据处理。本说明不替代依法需要另行取得的同意。"
+        ]
+      },
+      {
+        "heading": "7. 您的权利与选择",
+        "paragraphs": [
+          "您可根据适用法律联系我们，提出访问、更正、删除、限制处理或撤回同意等请求。必要时我们会核实身份或代理权限；如因法律限制无法处理，将说明原因。我们无法直接访问或删除仅存于设备的游戏记录或由Google独立控制的数据。Google数据也可通过其隐私管理工具进行管理。您还可向主管数据保护机构投诉。"
+        ]
+      },
+      {
+        "heading": "8. 儿童、安全及变更",
+        "paragraphs": [
+          "本应用面向一般用户，并非专为儿童设计。应用不提供用于单独收集儿童信息的账号功能。如咨询中包含儿童信息，请联系我们。我们仅在必要范围内开放咨询访问权限，不要求提交不必要的信息。互联网传输或存储无法保证绝对安全。",
+          "政策变更时，我们将在此更新生效日期和正文，并在必要时另行通知或征求同意。"
+        ]
+      }
+    ]
+  },
+  "fr": {
+    "title": "Politique de confidentialité",
+    "intro": "En vigueur depuis le 21 octobre 2026. Cette politique concerne Kkorean Solitaire et les demandes d’assistance de l’application, exploités par 에이터즈(Atorz), sous la marque ATORZ Studio.",
+    "sections": [
+      {
+        "heading": "1. Responsable et contact",
+        "paragraphs": [
+          "Pour les questions de confidentialité et l’exercice de vos droits : <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. Voir aussi l’<a href=\"/support/kkorean-solitaire\">assistance de l’application</a>."
+        ]
+      },
+      {
+        "heading": "2. Informations de jeu locales",
+        "paragraphs": [
+          "La progression, la difficulté, la langue, le volume, le profil local tel que le pseudonyme, les victoires, statistiques, succès et l’historique de fréquence publicitaire sont enregistrés sur votre appareil. Nous ne proposons actuellement ni connexion à un compte, ni classement en ligne, ni synchronisation dans notre propre cloud, et ne transmettons pas ces données à notre propre serveur de jeu. Les sauvegardes du système dépendent de vos réglages. Désinstaller l’application peut effacer les données ; leur récupération n’est pas garantie."
+        ]
+      },
+      {
+        "heading": "3. Publicité et consentement",
+        "paragraphs": [
+          "Nous utilisons Google AdMob (Google Mobile Ads SDK) et Google User Messaging Platform (UMP). Google peut traiter l’adresse IP et la localisation approximative déduite, des identifiants liés à l’appareil ou à l’application, les impressions et interactions publicitaires, les interactions dans l’application, les plantages, performances et autres données de diagnostic, pour diffuser des annonces, assurer la sécurité, prévenir la fraude, mesurer et diagnostiquer. Le traitement effectif dépend de l’appareil, de la configuration du SDK, de la région et de vos choix.",
+          "L’application demande des annonces non personnalisées et désactive l’identifiant propriétaire de l’éditeur (publisher first-party ID). Cela ne supprime pas tous les identifiants ni tous les traitements. Elle ne demande pas l’autorisation App Tracking Transparency (ATT) d’Apple. Le consentement UMP est proposé lorsque nécessaire ; les choix de confidentialité peuvent être rouverts dans les réglages si le SDK l’exige. Si l’autorisation de demander des annonces ne peut être confirmée, le jeu continue sans annonces. Refuser le consentement ne bloque pas nécessairement toute publicité.",
+          "Consultez les <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">informations sur les données du SDK Google</a>, les <a href=\"https://policies.google.com/privacy?hl=fr\">Règles de confidentialité de Google</a> et les fournisseurs indiqués dans les messages de consentement. Les services externes ouverts depuis une annonce appliquent leurs propres politiques."
+        ]
+      },
+      {
+        "heading": "4. Demandes d’assistance",
+        "paragraphs": [
+          "L’adresse e-mail, le message et les pièces jointes envoyés volontairement servent à répondre, résoudre les problèmes et traiter les demandes. Les demandes sont gérées dans Gmail, sans copie ni transfert vers un CRM distinct, des documents cloud ou un prestataire d’assistance externe. Nous contacter est facultatif et n’est pas nécessaire pour jouer. N’envoyez pas de mots de passe, identifiants fiscaux, données de paiement ou informations sensibles inutiles."
+        ]
+      },
+      {
+        "heading": "5. Conservation et suppression",
+        "paragraphs": [
+          "Les e-mails d’assistance, leur contenu et leurs pièces jointes sont supprimés de la boîte et de la corbeille gérées par l’exploitant dans les 30 jours suivant la résolution. Les demandes ouvertes sont conservées tant que leur résolution le nécessite. Une conservation légale est limitée à sa finalité et à sa durée obligatoires. La conservation des données publicitaires et de consentement de Google et la suppression des sauvegardes internes de Gmail suivent les politiques et procédures du fournisseur ; le même délai que pour l’assistance n’est pas garanti. Voir les <a href=\"https://policies.google.com/technologies/retention?hl=fr\">informations de conservation de Google</a>."
+        ]
+      },
+      {
+        "heading": "6. Fournisseurs et traitement international",
+        "paragraphs": [
+          "La publicité, le consentement et l’assistance Gmail utilisent les systèmes de Google LLC et des entités Google concernées. Les e-mails et pièces jointes sont traités lors des contacts ; les données de la section 3 et celles relatives au consentement le sont lors des communications publicitaires et de consentement sur internet. Google exploite des serveurs dans le monde entier : les données peuvent être traitées hors de votre pays, notamment aux États-Unis. Les lieux et circuits dépendent des services Google et ne sont pas limités par nous à un pays précis.",
+          "Les finalités sont la publicité, la gestion du consentement, la sécurité, le diagnostic, ainsi que la réception, conservation et réponse aux demandes. Les contacts du fournisseur, traitements, durées et garanties de transfert figurent dans les <a href=\"https://policies.google.com/privacy?hl=fr\">Règles de confidentialité de Google</a> et les <a href=\"https://policies.google.com/privacy/frameworks?hl=fr\">informations sur les transferts</a>. Vous pouvez ne pas envoyer d’e-mail, utiliser les choix de consentement disponibles dans l’application ou nous interroger sur le traitement. Cet avis ne remplace pas un consentement distinct lorsqu’il est requis."
+        ]
+      },
+      {
+        "heading": "7. Vos droits et vos choix",
+        "paragraphs": [
+          "Vous pouvez nous demander l’accès, la rectification, l’effacement, la limitation du traitement ou le retrait du consentement selon le droit applicable. Nous pouvons vérifier votre identité ou mandat si nécessaire et expliquer les restrictions légales. Nous ne pouvons pas consulter ni supprimer directement les données uniquement sur l’appareil ou celles contrôlées indépendamment par Google. Google propose ses propres outils de confidentialité. Vous pouvez aussi saisir l’autorité de protection des données compétente."
+        ]
+      },
+      {
+        "heading": "8. Enfants, sécurité et modifications",
+        "paragraphs": [
+          "Ce jeu s’adresse au grand public et n’est pas un service spécialement destiné aux enfants. Il ne propose pas de compte collectant séparément leurs informations. Contactez-nous si un message d’assistance contient des informations sur un enfant. Nous limitons l’accès aux demandes au nécessaire et ne demandons pas d’informations inutiles. Aucune transmission internet ni aucun stockage ne peut être garanti totalement sûr.",
+          "Toute modification sera accompagnée ici d’une mise à jour de la date et du texte, ainsi que d’un avis ou d’un consentement supplémentaire si nécessaire."
+        ]
+      }
+    ]
+  },
+  "de": {
+    "title": "Datenschutzerklärung",
+    "intro": "Gültig ab 21. Oktober 2026. Diese Erklärung gilt für Kkorean Solitaire und den App-Support, betrieben von 에이터즈(Atorz) unter der Marke ATORZ Studio.",
+    "sections": [
+      {
+        "heading": "1. Verantwortlicher und Kontakt",
+        "paragraphs": [
+          "Fragen zum Datenschutz und Anträge zur Ausübung Ihrer Rechte: <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. Siehe auch <a href=\"/support/kkorean-solitaire\">App-Support</a>."
+        ]
+      },
+      {
+        "heading": "2. Lokale Spieldaten",
+        "paragraphs": [
+          "Fortschritt, Schwierigkeit, Sprache, Lautstärke, lokale Profildaten wie Spitzname, Siege, Statistiken, Erfolge und der Verlauf der Werbehäufigkeit werden auf Ihrem Gerät gespeichert. Derzeit bieten wir weder Kontoanmeldung noch Online-Ranglisten oder eigene Cloud-Synchronisierung an und senden diese Aufzeichnungen nicht an einen eigenen Spielserver. Betriebssystem-Backups richten sich nach Ihren Einstellungen. Beim Löschen der App können Daten verloren gehen; eine Wiederherstellung ist nicht garantiert."
+        ]
+      },
+      {
+        "heading": "3. Werbung und Einwilligung",
+        "paragraphs": [
+          "Wir verwenden Google AdMob (Google Mobile Ads SDK) und Google User Messaging Platform (UMP). Google kann IP-Adressen und daraus abgeleitete ungefähre Standorte, Geräte- oder App-Kennungen, Werbeeinblendungen und -interaktionen, App-Interaktionen, Abstürze, Leistungs- und sonstige Diagnosedaten für Werbung, Sicherheit, Betrugsprävention, Messung und Diagnose verarbeiten. Die tatsächliche Verarbeitung hängt von Gerät, SDK-Konfiguration, Region und Ihren Entscheidungen ab.",
+          "Die App fordert nicht personalisierte Werbung an und deaktiviert die eigene Publisher-ID (publisher first-party ID). Dadurch entfallen nicht alle Kennungen oder Datenverarbeitungen. Die App fragt keine Apple-App-Tracking-Transparency-Berechtigung (ATT) ab. Wo erforderlich, wird UMP zur Einwilligung verwendet; vom SDK verlangte Datenschutzauswahlen lassen sich in den Einstellungen erneut öffnen. Ist die Erlaubnis für Werbeanfragen nicht bestätigt, läuft das Spiel ohne Werbung weiter. Eine verweigerte Einwilligung blockiert nicht zwingend jede Werbeform.",
+          "Siehe <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">Google-SDK-Dateninformationen</a>, <a href=\"https://policies.google.com/privacy?hl=de\">Google-Datenschutzerklärung</a> und die Anbieterinformationen im Einwilligungsdialog. Über Werbung geöffnete externe Dienste haben eigene Richtlinien."
+        ]
+      },
+      {
+        "heading": "4. Supportanfragen",
+        "paragraphs": [
+          "Freiwillig übermittelte E-Mail-Adressen, Nachrichten und Anhänge verwenden wir für Antworten, Problemlösung und Bearbeitung von Anträgen. Anfragen werden in Gmail verwaltet und nicht in separate CRM-Systeme, Cloud-Dokumente oder an externe Supportanbieter kopiert oder weitergeleitet. Support ist freiwillig und für das Spielen nicht erforderlich. Senden Sie keine Passwörter, Steuerkennungen, Zahlungsdaten oder unnötigen sensiblen Informationen."
+        ]
+      },
+      {
+        "heading": "5. Aufbewahrung und Löschung",
+        "paragraphs": [
+          "Support-E-Mails, Inhalte und Anhänge werden innerhalb von 30 Tagen nach Erledigung aus dem vom Betreiber verwalteten Postfach und Papierkorb gelöscht. Offene Anfragen bleiben so lange gespeichert, wie ihre Bearbeitung es erfordert. Gesetzlich vorgeschriebene Aufbewahrung erfolgt nur für den jeweiligen Zweck und Zeitraum. Für Google-Werbe- und Einwilligungsdaten sowie die Löschung interner Gmail-Backups gelten die Richtlinien und Verfahren des Anbieters; dieselbe Löschfrist wie beim Support ist nicht garantiert. Siehe <a href=\"https://policies.google.com/technologies/retention?hl=de\">Google-Informationen zur Aufbewahrung</a>."
+        ]
+      },
+      {
+        "heading": "6. Anbieter und internationale Verarbeitung",
+        "paragraphs": [
+          "Werbung, Einwilligung und Gmail-Support nutzen Systeme von Google LLC und den zuständigen Google-Dienstgesellschaften. Bei Supportkontakten werden E-Mails und Anhänge verarbeitet, bei Werbe- und Einwilligungskommunikation über das Internet die in Abschnitt 3 genannten und einwilligungsbezogenen Daten. Google betreibt weltweit Server; Informationen können außerhalb Ihres Landes, etwa in den USA, verarbeitet werden. Orte und Verarbeitungswege hängen von den Google-Diensten ab und werden von uns nicht auf ein Land beschränkt.",
+          "Zwecke sind Werbung, Einwilligungsverwaltung, Sicherheit, Diagnose sowie Empfang, Aufbewahrung und Beantwortung von Anfragen. Anbieterkontakte, Verarbeitung, Aufbewahrung und Übermittlungsgarantien stehen in der <a href=\"https://policies.google.com/privacy?hl=de\">Google-Datenschutzerklärung</a> und den <a href=\"https://policies.google.com/privacy/frameworks?hl=de\">Informationen zur Datenübermittlung</a>. Sie können auf Support-E-Mails verzichten, verfügbare Einwilligungsoptionen in der App nutzen oder uns zur Verarbeitung kontaktieren. Dieser Hinweis ersetzt keine erforderliche gesonderte Einwilligung."
+        ]
+      },
+      {
+        "heading": "7. Ihre Rechte und Wahlmöglichkeiten",
+        "paragraphs": [
+          "Nach geltendem Recht können Sie bei uns Auskunft, Berichtigung, Löschung, Einschränkung oder Widerruf einer Einwilligung beantragen. Soweit nötig prüfen wir Identität oder Vertretungsberechtigung und erläutern rechtliche Einschränkungen. Rein lokale Spielaufzeichnungen sowie von Google unabhängig kontrollierte Daten können wir nicht direkt einsehen oder löschen. Nutzen Sie auch Googles Datenschutzwerkzeuge. Sie können sich bei Ihrer zuständigen Datenschutzbehörde beschweren."
+        ]
+      },
+      {
+        "heading": "8. Kinder, Sicherheit und Änderungen",
+        "paragraphs": [
+          "Dieses Spiel richtet sich an die Allgemeinheit, nicht speziell an Kinder. Es bietet keine Kontofunktion zur gesonderten Erhebung von Kinderdaten. Kontaktieren Sie uns, falls eine Supportnachricht Daten eines Kindes enthält. Wir beschränken den Supportzugriff auf das Erforderliche und verlangen keine unnötigen Informationen. Vollständige Sicherheit bei Internetübertragung oder Speicherung kann nicht garantiert werden.",
+          "Bei Änderungen aktualisieren wir Datum und Text auf dieser Seite und informieren zusätzlich oder holen eine Einwilligung ein, soweit erforderlich."
+        ]
+      }
+    ]
+  },
+  "it": {
+    "title": "Informativa sulla privacy",
+    "intro": "In vigore dal 21 ottobre 2026. La presente informativa riguarda Kkorean Solitaire e le richieste di assistenza, gestiti da 에이터즈(Atorz), con il marchio ATORZ Studio.",
+    "sections": [
+      {
+        "heading": "1. Titolare e contatti",
+        "paragraphs": [
+          "Per domande sulla privacy e richieste relative ai diritti: <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. Vedere anche l’<a href=\"/support/kkorean-solitaire\">assistenza dell’app</a>."
+        ]
+      },
+      {
+        "heading": "2. Informazioni locali di gioco",
+        "paragraphs": [
+          "Progressi, difficoltà, lingua, volume, profilo locale come il soprannome, vittorie, statistiche, obiettivi e cronologia della frequenza degli annunci sono salvati sul dispositivo. Attualmente non offriamo accesso a un account, classifiche online o sincronizzazione cloud propria, né inviamo questi dati a un nostro server di gioco. I backup del sistema operativo dipendono dalle impostazioni. Eliminare l’app può cancellare i dati; il recupero non è garantito."
+        ]
+      },
+      {
+        "heading": "3. Pubblicità e consenso",
+        "paragraphs": [
+          "Usiamo Google AdMob (Google Mobile Ads SDK) e Google User Messaging Platform (UMP). Google può trattare indirizzo IP e posizione approssimativa dedotta, identificatori del dispositivo o dell’app, impressioni e interazioni pubblicitarie, interazioni con l’app, arresti anomali, prestazioni e altri dati diagnostici per pubblicità, sicurezza, prevenzione delle frodi, misurazione e diagnostica. Il trattamento effettivo dipende da dispositivo, configurazione SDK, regione e scelte dell’utente.",
+          "L’app richiede annunci non personalizzati e disattiva l’ID proprietario del publisher (publisher first-party ID). Ciò non elimina tutti gli identificatori o trattamenti. Non richiede il permesso App Tracking Transparency (ATT) di Apple. Dove necessario offre il consenso UMP; le scelte sulla privacy possono essere riaperte nelle impostazioni quando richiesto dal SDK. Se non è possibile confermare il permesso di richiedere annunci, il gioco continua senza pubblicità. Rifiutare il consenso non blocca necessariamente ogni tipo di annuncio.",
+          "Consultare le <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">informazioni sui dati del SDK Google</a>, le <a href=\"https://policies.google.com/privacy?hl=it\">Norme sulla privacy di Google</a> e i fornitori indicati nei messaggi di consenso. I servizi esterni aperti dagli annunci applicano le proprie informative."
+        ]
+      },
+      {
+        "heading": "4. Richieste di assistenza",
+        "paragraphs": [
+          "Usiamo indirizzo e-mail, messaggio e allegati inviati volontariamente per rispondere, risolvere problemi e gestire richieste. Le richieste sono gestite in Gmail, senza copie o inoltri a CRM separati, documenti cloud o assistenza esternalizzata. Contattarci è facoltativo e non serve per giocare. Non inviare password, identificativi fiscali, dati di pagamento o informazioni sensibili non necessarie."
+        ]
+      },
+      {
+        "heading": "5. Conservazione e cancellazione",
+        "paragraphs": [
+          "E-mail di assistenza, contenuti e allegati vengono cancellati dalla casella e dal cestino gestiti dall’operatore entro 30 giorni dalla risoluzione. Le richieste aperte sono conservate per il tempo necessario a risolverle. Se la legge impone la conservazione, questa è limitata alla finalità e al periodo previsti. I dati pubblicitari e di consenso Google e la cancellazione dei backup interni di Gmail seguono le regole e procedure del fornitore; non è garantito lo stesso termine del supporto. Vedere le <a href=\"https://policies.google.com/technologies/retention?hl=it\">informazioni sulla conservazione di Google</a>."
+        ]
+      },
+      {
+        "heading": "6. Fornitori e trattamento internazionale",
+        "paragraphs": [
+          "Pubblicità, consenso e assistenza Gmail usano sistemi di Google LLC e delle pertinenti società di servizi Google. Contattando l’assistenza vengono trattati e-mail e allegati; nelle comunicazioni pubblicitarie e di consenso via internet vengono trattati i dati della sezione 3 e quelli relativi al consenso. Google ha server in tutto il mondo: i dati possono essere trattati fuori dal paese di residenza, anche negli Stati Uniti. Sedi e percorsi dipendono dai servizi Google e non li limitiamo a un paese specifico.",
+          "Le finalità sono pubblicità, gestione del consenso, sicurezza, diagnostica, ricezione, conservazione e risposta alle richieste. Contatti, trattamento, conservazione e garanzie sui trasferimenti sono descritti nelle <a href=\"https://policies.google.com/privacy?hl=it\">Norme sulla privacy di Google</a> e nelle <a href=\"https://policies.google.com/privacy/frameworks?hl=it\">informazioni sui trasferimenti</a>. È possibile non scrivere all’assistenza, usare le scelte di consenso nell’app o contattarci sul trattamento. Questo avviso non sostituisce un consenso separato ove richiesto."
+        ]
+      },
+      {
+        "heading": "7. Diritti e scelte",
+        "paragraphs": [
+          "È possibile richiedere accesso, rettifica, cancellazione, limitazione o revoca del consenso secondo la legge applicabile. Se necessario verifichiamo identità o delega e spieghiamo eventuali limiti legali. Non possiamo accedere o cancellare direttamente i dati solo sul dispositivo o controllati autonomamente da Google. Google offre strumenti per gestire la privacy dei propri dati. È inoltre possibile rivolgersi all’autorità competente per la protezione dei dati."
+        ]
+      },
+      {
+        "heading": "8. Minori, sicurezza e modifiche",
+        "paragraphs": [
+          "È un gioco per il pubblico generale, non un servizio specifico per bambini. Non offre account per raccogliere separatamente i loro dati. Contattarci se una richiesta contiene informazioni di un minore. Limitiamo l’accesso all’assistenza al necessario e non chiediamo dati inutili. Non è possibile garantire la sicurezza assoluta delle trasmissioni internet o dell’archiviazione.",
+          "In caso di modifiche aggiorniamo data e testo su questa pagina e forniamo ulteriori avvisi o richiediamo il consenso quando necessario."
+        ]
+      }
+    ]
+  },
+  "ru": {
+    "title": "Политика конфиденциальности",
+    "intro": "Действует с 21 октября 2026 года. Политика распространяется на Kkorean Solitaire и обращения в поддержку приложения, оператор — 에이터즈(Atorz), бренд ATORZ Studio.",
+    "sections": [
+      {
+        "heading": "1. Оператор и контакты",
+        "paragraphs": [
+          "Вопросы о конфиденциальности и реализации прав: <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. См. также <a href=\"/support/kkorean-solitaire\">поддержку приложения</a>."
+        ]
+      },
+      {
+        "heading": "2. Локальные игровые данные",
+        "paragraphs": [
+          "Прогресс, сложность, язык, громкость, локальный профиль, например псевдоним, победы, статистика, достижения и история частоты рекламы хранятся на устройстве. Сейчас мы не предлагаем вход в аккаунт, онлайн-рейтинги или собственную облачную синхронизацию и не отправляем эти записи на собственный игровой сервер. Резервное копирование ОС зависит от её настроек. Удаление приложения может привести к потере записей; восстановление не гарантируется."
+        ]
+      },
+      {
+        "heading": "3. Реклама и согласие",
+        "paragraphs": [
+          "Мы используем Google AdMob (Google Mobile Ads SDK) и Google User Messaging Platform (UMP). Google может обрабатывать IP-адрес и определённое по нему приблизительное местоположение, идентификаторы устройства или приложения, показы рекламы и взаимодействия с ней, действия в приложении, сбои, показатели производительности и другие диагностические данные для показа рекламы, безопасности, предотвращения мошенничества, измерений и диагностики. Фактическая обработка зависит от устройства, настроек SDK, региона и вашего выбора.",
+          "Приложение настроено на запрос неперсонализированной рекламы и отключение собственного идентификатора издателя (publisher first-party ID). Это не исключает все идентификаторы и обработку данных. Приложение не запрашивает разрешение Apple App Tracking Transparency (ATT). Там, где требуется, используется согласие UMP; настройки конфиденциальности можно открыть повторно в настройках, если этого требует SDK. Если разрешение на запрос рекламы не подтверждено, игра продолжается без рекламы. Отказ от согласия не обязательно блокирует все виды рекламы.",
+          "См. <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">сведения о данных SDK Google</a>, <a href=\"https://policies.google.com/privacy?hl=ru\">Политику конфиденциальности Google</a> и информацию о поставщиках в окне согласия. Внешние сервисы, открываемые из рекламы, применяют собственные правила."
+        ]
+      },
+      {
+        "heading": "4. Обращения в поддержку",
+        "paragraphs": [
+          "Добровольно отправленные адрес электронной почты, текст и вложения используются для ответа, решения проблем и обработки запросов. Обращения ведутся в Gmail без копирования или пересылки в отдельную CRM, облачные документы или стороннюю службу поддержки. Обращение добровольно и не требуется для игры. Не отправляйте пароли, налоговые идентификаторы, платёжные данные или ненужные конфиденциальные сведения."
+        ]
+      },
+      {
+        "heading": "5. Хранение и удаление",
+        "paragraphs": [
+          "Письма поддержки, текст и вложения удаляются из почтового ящика и корзины, которыми управляет оператор, в течение 30 дней после решения вопроса. Открытые обращения хранятся столько, сколько нужно для их решения. Обязательное по закону хранение ограничено соответствующей целью и сроком. Хранение рекламных данных и согласий Google и удаление внутренних резервных копий Gmail регулируются правилами и процедурами поставщика; одинаковый со сроком поддержки срок удаления не гарантируется. См. <a href=\"https://policies.google.com/technologies/retention?hl=ru\">информацию Google о хранении</a>."
+        ]
+      },
+      {
+        "heading": "6. Поставщики и международная обработка",
+        "paragraphs": [
+          "Реклама, согласие и поддержка Gmail используют системы Google LLC и соответствующих компаний Google. При обращении обрабатываются письма и вложения; при рекламном обмене и обмене согласиями через интернет — данные раздела 3 и сведения о согласии. Google располагает серверами по всему миру, поэтому обработка возможна за пределами страны проживания, в том числе в США. Места и маршруты зависят от сервисов Google и не ограничиваются нами одной страной.",
+          "Цели включают рекламу, управление согласием, безопасность, диагностику, приём, хранение обращений и ответы. Контакты поставщика, обработка, хранение и меры защиты при передаче описаны в <a href=\"https://policies.google.com/privacy?hl=ru\">Политике конфиденциальности Google</a> и <a href=\"https://policies.google.com/privacy/frameworks?hl=ru\">информации о передаче данных</a>. Можно не писать в поддержку, использовать доступные варианты согласия в приложении или связаться с нами по вопросам обработки. Это уведомление не заменяет отдельное согласие, когда оно необходимо."
+        ]
+      },
+      {
+        "heading": "7. Ваши права и выбор",
+        "paragraphs": [
+          "В соответствии с применимым законом вы можете запросить доступ, исправление, удаление, ограничение обработки или отзыв согласия. При необходимости мы проверим личность или полномочия представителя и объясним правовые ограничения. Мы не можем напрямую просматривать или удалять записи, хранящиеся только на устройстве, или данные, которыми Google управляет самостоятельно. Google предоставляет собственные инструменты конфиденциальности. Вы также вправе обратиться в компетентный орган по защите данных."
+        ]
+      },
+      {
+        "heading": "8. Дети, безопасность и изменения",
+        "paragraphs": [
+          "Игра предназначена для широкой аудитории, а не специально для детей. В ней нет аккаунтов для отдельного сбора сведений о детях. Свяжитесь с нами, если обращение содержит данные ребёнка. Доступ к обращениям ограничен необходимым, ненужные сведения не запрашиваются. Абсолютную безопасность передачи через интернет и хранения гарантировать нельзя.",
+          "При изменении политики мы обновим дату и текст на этой странице, а при необходимости предоставим дополнительное уведомление или запросим согласие."
+        ]
+      }
+    ]
+  },
+  "sv": {
+    "title": "Integritetspolicy",
+    "intro": "Gäller från den 21 oktober 2026. Policyn omfattar Kkorean Solitaire och appens supportärenden, som hanteras av 에이터즈(Atorz) under varumärket ATORZ Studio.",
+    "sections": [
+      {
+        "heading": "1. Ansvarig och kontakt",
+        "paragraphs": [
+          "Frågor om integritet och dina rättigheter: <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. Se även <a href=\"/support/kkorean-solitaire\">appsupport</a>."
+        ]
+      },
+      {
+        "heading": "2. Lokala speluppgifter",
+        "paragraphs": [
+          "Framsteg, svårighetsgrad, språk, volym, lokal profil såsom smeknamn, vinster, statistik, prestationer och historik över annonsfrekvens lagras på enheten. Vi erbjuder för närvarande ingen kontoinloggning, topplista online eller egen molnsynkronisering och skickar inte dessa uppgifter till en egen spelserver. Operativsystemets säkerhetskopiering följer dina inställningar. Om appen raderas kan uppgifterna försvinna; återställning garanteras inte."
+        ]
+      },
+      {
+        "heading": "3. Annonser och samtycke",
+        "paragraphs": [
+          "Vi använder Google AdMob (Google Mobile Ads SDK) och Google User Messaging Platform (UMP). Google kan behandla IP-adress och ungefärlig plats som härleds från den, enhets- eller appidentifierare, annonsvisningar och interaktioner, appinteraktioner, krascher, prestanda och andra diagnosuppgifter för annonsering, säkerhet, bedrägeribekämpning, mätning och diagnostik. Den faktiska behandlingen beror på enhet, SDK-konfiguration, region och dina val.",
+          "Appen är inställd på att begära icke-personanpassade annonser och inaktivera utgivarens förstaparts-ID (publisher first-party ID). Detta tar inte bort alla identifierare eller all behandling. Appen begär inte Apples App Tracking Transparency-behörighet (ATT). UMP-samtycke erbjuds där det krävs, och integritetsval kan öppnas igen i inställningarna när SDK kräver det. Om tillåtelse att begära annonser inte kan bekräftas fortsätter spelet utan annonser. Ett nekat samtycke blockerar inte nödvändigtvis alla annonser.",
+          "Se <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">Googles SDK-information om data</a>, <a href=\"https://policies.google.com/privacy?hl=sv\">Googles integritetspolicy</a> och leverantörsinformationen i samtyckesmeddelandet. Externa tjänster som öppnas via annonser har egna policyer."
+        ]
+      },
+      {
+        "heading": "4. Supportärenden",
+        "paragraphs": [
+          "E-postadress, meddelande och bilagor som du frivilligt skickar används för svar, problemlösning och hantering av förfrågningar. Ärenden hanteras i Gmail utan kopior eller vidarebefordran till separat CRM, molndokument eller extern supportleverantör. Supportkontakt är frivillig och krävs inte för att spela. Skicka inte lösenord, skatteidentifierare, betalningsuppgifter eller onödiga känsliga uppgifter."
+        ]
+      },
+      {
+        "heading": "5. Lagring och radering",
+        "paragraphs": [
+          "Supportmejl, innehåll och bilagor raderas från operatörens brevlåda och papperskorg inom 30 dagar efter att ärendet lösts. Öppna ärenden sparas så länge det behövs för lösningen. Lagstadgad lagring begränsas till det föreskrivna syftet och tidsperioden. Googles lagring av annons- och samtyckesdata samt radering av interna Gmail-säkerhetskopior följer leverantörens policyer och rutiner; samma tidsgräns som för support garanteras inte. Se <a href=\"https://policies.google.com/technologies/retention?hl=sv\">Googles information om lagring</a>."
+        ]
+      },
+      {
+        "heading": "6. Leverantörer och internationell behandling",
+        "paragraphs": [
+          "Annonser, samtycke och Gmail-support använder system från Google LLC och berörda Google-bolag. Mejl och bilagor behandlas vid supportkontakt; uppgifterna i avsnitt 3 och samtyckesuppgifter behandlas vid annons- och samtyckeskommunikation via internet. Google har servrar över hela världen, så behandling kan ske utanför ditt land, bland annat i USA. Platser och behandlingsvägar beror på Googles tjänster och begränsas inte av oss till ett visst land.",
+          "Syftena är annonsering, samtyckeshantering, säkerhet, diagnostik samt mottagning, lagring och besvarande av ärenden. Kontaktuppgifter, behandling, lagring och skydd vid överföringar beskrivs i <a href=\"https://policies.google.com/privacy?hl=sv\">Googles integritetspolicy</a> och <a href=\"https://policies.google.com/privacy/frameworks?hl=sv\">informationen om överföringar</a>. Du kan avstå från supportmejl, använda tillgängliga samtyckesval i appen eller fråga oss om behandlingen. Denna information ersätter inte separat samtycke där det krävs."
+        ]
+      },
+      {
+        "heading": "7. Dina rättigheter och val",
+        "paragraphs": [
+          "Du kan kontakta oss för tillgång, rättelse, radering, begränsning eller återkallelse av samtycke enligt tillämplig lag. Vi kan vid behov kontrollera identitet eller fullmakt och förklara rättsliga begränsningar. Vi kan inte direkt läsa eller radera speluppgifter som bara finns på enheten eller data som Google självständigt ansvarar för. Google erbjuder egna integritetsverktyg. Du kan också klaga hos behörig dataskyddsmyndighet."
+        ]
+      },
+      {
+        "heading": "8. Barn, säkerhet och ändringar",
+        "paragraphs": [
+          "Spelet riktar sig till en allmän publik, inte särskilt till barn. Det erbjuder ingen kontofunktion som separat samlar in barns uppgifter. Kontakta oss om ett supportmeddelande innehåller ett barns uppgifter. Vi begränsar åtkomsten till ärenden efter behov och begär inte onödiga uppgifter. Fullständig säkerhet vid internetöverföring eller lagring kan inte garanteras.",
+          "Vid ändringar uppdaterar vi datum och text på denna sida samt lämnar ytterligare information eller begär samtycke när det behövs."
+        ]
+      }
+    ]
+  },
+  "nb": {
+    "title": "Personvernerklæring",
+    "intro": "Gjelder fra 21. oktober 2026. Erklæringen omfatter Kkorean Solitaire og appens støttehenvendelser, drevet av 에이터즈(Atorz) under merkenavnet ATORZ Studio.",
+    "sections": [
+      {
+        "heading": "1. Behandlingsansvarlig og kontakt",
+        "paragraphs": [
+          "Spørsmål om personvern og rettigheter: <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. Se også <a href=\"/support/kkorean-solitaire\">appstøtte</a>."
+        ]
+      },
+      {
+        "heading": "2. Lokale spillopplysninger",
+        "paragraphs": [
+          "Fremdrift, vanskelighetsgrad, språk, volum, lokal profil som kallenavn, seire, statistikk, prestasjoner og historikk for annonsefrekvens lagres på enheten. Vi tilbyr foreløpig ikke kontoinnlogging, nettbaserte resultatlister eller egen skysynkronisering og sender ikke disse registreringene til en egen spillserver. Sikkerhetskopiering i operativsystemet følger innstillingene dine. Sletting av appen kan fjerne registreringene; gjenoppretting garanteres ikke."
+        ]
+      },
+      {
+        "heading": "3. Annonser og samtykke",
+        "paragraphs": [
+          "Vi bruker Google AdMob (Google Mobile Ads SDK) og Google User Messaging Platform (UMP). Google kan behandle IP-adresse og omtrentlig posisjon utledet fra den, enhets- eller appidentifikatorer, annonsevisninger og interaksjoner, appinteraksjoner, krasj, ytelse og andre diagnosedata for annonsering, sikkerhet, svindelforebygging, måling og diagnostikk. Faktisk behandling avhenger av enhet, SDK-konfigurasjon, region og valgene dine.",
+          "Appen er konfigurert til å be om ikke-personlig tilpassede annonser og deaktivere utgiverens førsteparts-ID (publisher first-party ID). Dette fjerner ikke alle identifikatorer eller all behandling. Appen ber ikke om Apples App Tracking Transparency-tillatelse (ATT). UMP-samtykke tilbys der det kreves, og personvernvalg kan åpnes på nytt i innstillingene når SDK krever det. Hvis tillatelse til å be om annonser ikke kan bekreftes, fortsetter spillet uten annonser. Avslag på samtykke blokkerer ikke nødvendigvis alle annonsetyper.",
+          "Se <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">Googles SDK-opplysninger om data</a>, <a href=\"https://policies.google.com/privacy?hl=no\">Googles personvernregler</a> og leverandørene oppgitt i samtykkemeldingen. Eksterne tjenester åpnet via annonser har egne regler."
+        ]
+      },
+      {
+        "heading": "4. Støttehenvendelser",
+        "paragraphs": [
+          "E-postadresse, melding og vedlegg som du frivillig sender, brukes til svar, problemløsning og behandling av forespørsler. Henvendelser håndteres i Gmail uten kopier eller videresending til separat CRM, skydokumenter eller ekstern støtteleverandør. Kontakt er frivillig og ikke nødvendig for å spille. Ikke send passord, skatteidentifikatorer, betalingsopplysninger eller unødvendige sensitive opplysninger."
+        ]
+      },
+      {
+        "heading": "5. Lagring og sletting",
+        "paragraphs": [
+          "Støtte-e-poster, innhold og vedlegg slettes fra operatørens postkasse og papirkurv innen 30 dager etter at saken er løst. Åpne saker lagres så lenge det er nødvendig for å løse dem. Lovpålagt oppbevaring begrenses til pålagt formål og periode. Googles lagring av annonse- og samtykkedata og sletting av interne Gmail-sikkerhetskopier følger leverandørens regler og rutiner; samme slettefrist som for støtte garanteres ikke. Se <a href=\"https://policies.google.com/technologies/retention?hl=no\">Googles informasjon om lagring</a>."
+        ]
+      },
+      {
+        "heading": "6. Leverandører og internasjonal behandling",
+        "paragraphs": [
+          "Annonser, samtykke og Gmail-støtte bruker systemer fra Google LLC og relevante Google-selskaper. E-post og vedlegg behandles ved kontakt; opplysningene i del 3 og samtykkeopplysninger behandles under annonse- og samtykkekommunikasjon over internett. Google har servere over hele verden, så opplysninger kan behandles utenfor landet ditt, blant annet i USA. Steder og behandlingsveier avhenger av Googles tjenester og begrenses ikke av oss til et bestemt land.",
+          "Formålene er annonsering, samtykkehåndtering, sikkerhet, diagnostikk og mottak, lagring og besvarelse av henvendelser. Leverandørkontakt, behandling, lagring og overføringsvern beskrives i <a href=\"https://policies.google.com/privacy?hl=no\">Googles personvernregler</a> og <a href=\"https://policies.google.com/privacy/frameworks?hl=no\">informasjonen om overføringer</a>. Du kan la være å sende e-post, bruke tilgjengelige samtykkevalg i appen eller kontakte oss om behandlingen. Denne informasjonen erstatter ikke særskilt samtykke der det kreves."
+        ]
+      },
+      {
+        "heading": "7. Rettigheter og valg",
+        "paragraphs": [
+          "Du kan kontakte oss for innsyn, retting, sletting, begrensning eller tilbaketrekking av samtykke etter gjeldende lov. Ved behov kan vi kontrollere identitet eller fullmakt og forklare rettslige begrensninger. Vi kan ikke direkte lese eller slette spillregistreringer som bare finnes på enheten eller data Google kontrollerer selvstendig. Google tilbyr egne personvernverktøy. Du kan også klage til relevant personvernmyndighet."
+        ]
+      },
+      {
+        "heading": "8. Barn, sikkerhet og endringer",
+        "paragraphs": [
+          "Spillet er for allmennheten, ikke spesielt for barn. Det tilbyr ikke kontofunksjoner som samler inn barns opplysninger separat. Kontakt oss dersom en støttemelding inneholder et barns opplysninger. Vi begrenser tilgangen til det som er nødvendig og ber ikke om unødvendige opplysninger. Full sikkerhet ved overføring over internett eller lagring kan ikke garanteres.",
+          "Ved endringer oppdaterer vi dato og tekst her og gir ytterligere varsel eller innhenter samtykke der det kreves."
+        ]
+      }
+    ]
+  },
+  "fi": {
+    "title": "Tietosuojaseloste",
+    "intro": "Voimassa 21. lokakuuta 2026 alkaen. Tämä seloste koskee Kkorean Solitaire -sovellusta ja sen tukipyyntöjä. Toimija on 에이터즈(Atorz), joka käyttää ATORZ Studio -brändiä.",
+    "sections": [
+      {
+        "heading": "1. Rekisterinpitäjä ja yhteystiedot",
+        "paragraphs": [
+          "Tietosuoja- ja oikeuspyynnöt: <a href=\"mailto:atorzstudio@gmail.com\">atorzstudio@gmail.com</a>. Katso myös <a href=\"/support/kkorean-solitaire\">sovelluksen tuki</a>."
+        ]
+      },
+      {
+        "heading": "2. Laitteen pelitiedot",
+        "paragraphs": [
+          "Edistyminen, vaikeustaso, kieli, äänenvoimakkuus, paikallinen profiili kuten nimimerkki, voitot, tilastot, saavutukset ja mainosten näyttötiheyden historia tallennetaan laitteelle. Emme tällä hetkellä tarjoa tilikirjautumista, verkkotuloslistoja tai omaa pilvisynkronointia emmekä lähetä näitä tietoja omalle pelipalvelimelle. Käyttöjärjestelmän varmuuskopiot riippuvat asetuksistasi. Sovelluksen poistaminen voi poistaa tiedot; palautusta ei taata."
+        ]
+      },
+      {
+        "heading": "3. Mainonta ja suostumus",
+        "paragraphs": [
+          "Käytämme Google AdMobia (Google Mobile Ads SDK) ja Google User Messaging Platformia (UMP). Google voi käsitellä IP-osoitetta ja siitä pääteltyä likimääräistä sijaintia, laite- tai sovellustunnisteita, mainosnäyttöjä ja vuorovaikutuksia, sovelluksen käyttötapahtumia, kaatumisia, suorituskykyä ja muita diagnostiikkatietoja mainontaan, turvallisuuteen, petosten torjuntaan, mittaukseen ja diagnostiikkaan. Todellinen käsittely riippuu laitteesta, SDK-asetuksista, alueesta ja valinnoistasi.",
+          "Sovellus pyytää personoimattomia mainoksia ja poistaa julkaisijan ensimmäisen osapuolen tunnisteen (publisher first-party ID) käytöstä. Tämä ei poista kaikkia tunnisteita tai tietojenkäsittelyä. Sovellus ei pyydä Applen App Tracking Transparency (ATT) -lupaa. UMP-suostumus tarjotaan siellä, missä se vaaditaan; tietosuojavalinnat voi avata asetuksista uudelleen SDK:n niin vaatiessa. Jos mainospyyntöjen lupaa ei voida vahvistaa, peli jatkuu ilman mainoksia. Suostumuksen epääminen ei välttämättä estä kaikkia mainoksia.",
+          "Katso <a href=\"https://developers.google.com/admob/ios/privacy/data-disclosure\">Googlen SDK:n tietoja koskeva selvitys</a>, <a href=\"https://policies.google.com/privacy?hl=fi\">Googlen tietosuojakäytäntö</a> ja suostumusviestissä ilmoitetut palveluntarjoajat. Mainoksista avattaviin ulkoisiin palveluihin sovelletaan niiden omia käytäntöjä."
+        ]
+      },
+      {
+        "heading": "4. Tukipyynnöt",
+        "paragraphs": [
+          "Vapaaehtoisesti lähettämääsi sähköpostiosoitetta, viestiä ja liitteitä käytetään vastaamiseen, ongelmien ratkaisuun ja pyyntöjen käsittelyyn. Pyyntöjä hallitaan Gmailissa, eikä niitä kopioida tai välitetä erilliseen CRM-järjestelmään, pilviasiakirjoihin tai ulkoistetulle tukipalvelulle. Yhteydenotto on vapaaehtoinen eikä sitä tarvita pelaamiseen. Älä lähetä salasanoja, verotunnisteita, maksutietoja tai tarpeettomia arkaluonteisia tietoja."
+        ]
+      },
+      {
+        "heading": "5. Säilytys ja poistaminen",
+        "paragraphs": [
+          "Tukisähköpostit, sisältö ja liitteet poistetaan toimijan hallinnoimasta postilaatikosta ja roskakorista 30 päivän kuluessa asian ratkaisemisesta. Avoimia pyyntöjä säilytetään niin kauan kuin ratkaisu edellyttää. Lakisääteinen säilytys rajataan kyseiseen tarkoitukseen ja määräaikaan. Googlen mainos- ja suostumustietojen säilytys sekä Gmailin sisäisten varmuuskopioiden poisto noudattavat palveluntarjoajan käytäntöjä ja poistomenettelyjä; samaa määräaikaa kuin tukipyynnöille ei taata. Katso <a href=\"https://policies.google.com/technologies/retention?hl=fi\">Googlen tiedot tietojen säilytyksestä</a>."
+        ]
+      },
+      {
+        "heading": "6. Palveluntarjoajat ja kansainvälinen käsittely",
+        "paragraphs": [
+          "Mainonta, suostumus ja Gmail-tuki käyttävät Google LLC:n ja asianomaisten Google-palveluyhtiöiden järjestelmiä. Tukeen otettaessa käsitellään sähköpostia ja liitteitä; internetin mainos- ja suostumusviestinnässä käsitellään kohdan 3 tietoja ja suostumustietoja. Googlella on palvelimia maailmanlaajuisesti, joten tietoja voidaan käsitellä asuinmaasi ulkopuolella, myös Yhdysvalloissa. Sijainnit ja käsittelyreitit riippuvat Googlen palveluista, emmekä rajaa niitä tiettyyn maahan.",
+          "Tarkoituksia ovat mainonta, suostumusten hallinta, turvallisuus, diagnostiikka sekä tukipyyntöjen vastaanotto, säilytys ja niihin vastaaminen. Palveluntarjoajan yhteystiedot, käsittely, säilytys ja siirtojen suojatoimet kuvataan <a href=\"https://policies.google.com/privacy?hl=fi\">Googlen tietosuojakäytännössä</a> ja <a href=\"https://policies.google.com/privacy/frameworks?hl=fi\">tietojen siirtoa koskevissa tiedoissa</a>. Voit olla lähettämättä tukisähköpostia, käyttää sovelluksen suostumusvalintoja tai kysyä meiltä käsittelystä. Tämä ilmoitus ei korvaa erillistä suostumusta silloin, kun se vaaditaan."
+        ]
+      },
+      {
+        "heading": "7. Oikeudet ja valinnat",
+        "paragraphs": [
+          "Voit pyytää pääsyä tietoihin, oikaisua, poistoa, käsittelyn rajoittamista tai suostumuksen peruuttamista sovellettavan lain mukaisesti. Tarvittaessa tarkistamme henkilöllisyyden tai edustusvaltuuden ja selitämme oikeudelliset rajoitukset. Emme voi suoraan tarkastella tai poistaa vain laitteella olevia pelitietoja tai Googlen itsenäisesti hallitsemia tietoja. Google tarjoaa omat tietosuojatyökalunsa. Voit myös valittaa toimivaltaiselle tietosuojaviranomaiselle."
+        ]
+      },
+      {
+        "heading": "8. Lapset, turvallisuus ja muutokset",
+        "paragraphs": [
+          "Peli on suunnattu yleisölle, ei erityisesti lapsille. Se ei tarjoa tilitoimintoa lasten tietojen erilliseen keräämiseen. Ota yhteyttä, jos tukiviesti sisältää lapsen tietoja. Rajoitamme tukipyyntöihin pääsyn tarpeelliseen emmekä pyydä tarpeettomia tietoja. Internet-siirron tai tallennuksen täydellistä turvallisuutta ei voida taata.",
+          "Muutosten yhteydessä päivitämme tämän sivun voimaantulopäivän ja tekstin sekä annamme lisäilmoituksen tai pyydämme suostumuksen tarvittaessa."
+        ]
+      }
+    ]
+  }
+}
